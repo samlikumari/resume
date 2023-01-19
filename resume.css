@@ -1,0 +1,64 @@
+.b1 {
+    margin-left: 300px;
+    margin-top: 150px;
+}
+.b2 {
+    height: 500px;
+    width: 500px;
+    background-color: rgb(207, 207, 207);
+    margin-left: 650px;
+    margin-top: -555px;
+
+}
+.b2 h1{
+    font-family: century gothic;
+    margin-left: 20px;
+    margin-top: 50px;
+    color: orangered;
+
+
+
+}
+.b2 p {
+    margin-left: 20px;
+    font-family: century gothic;
+}
+.b3 {
+    margin-left: 320px;
+}
+.b3 h1 {
+    margin-top: 50px;
+    font-family: century gothic;
+    color: orangered;
+}
+.b3 p {
+    font-family: century gothic;
+    font-size: 15px;
+}
+.b4 {
+    margin-left: 850px;
+    margin-top: -129px;
+}
+.b4 h1 {
+    font-family: century gothic;
+    color: orangered;
+}
+.b4 p {
+    font-family: century gothic;
+    font-size: 15px;
+}
+.ds{
+    margin-left: 850px;
+    margin-top: -350px;
+}
+.ds h1{
+    font-family: century gothic;
+    color: orangered;
+
+}
+.ds{
+    font-family: century gothic;
+    font-size: 15px;
+}
+
+

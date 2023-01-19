@@ -1,0 +1,63 @@
+.a1 {
+    height: 150px;
+    width: 100%;
+    background-color: rgb(207, 207, 207);
+}
+.o {
+    margin-left: 290px;
+     font-family: century gothic;
+     color: rgb(48, 46, 46);
+     margin-top: -100px;
+}
+.a2 {
+    float: right;
+    margin-top: -50px;
+    font-size: 20px;
+    color: rgb(26, 23, 23);
+    margin-right: 200px;
+    
+}
+.a2 a {
+    color: rgb(48, 46, 46);
+    text-decoration: none;
+    font-family: century gothic;
+}
+.a2 a:hover {
+    color: rgb(41, 126, 223);
+    cursor: pointer;
+}
+.a3 {
+    margin-left: 290px;
+    margin-top: 120px;
+}
+.a4 {
+    margin-left: 800px;
+    margin-top: -450px;
+}
+.a4 h1 {
+    font-family: century gothic;
+    color: orangered;
+
+}
+.a4 p {
+    font-size: 15px;
+    font-weight: 200;
+    font-family: century gothic;
+}
+.a4 .button1 {
+    border: none;
+    color: white;
+    padding: 12px 35px;
+    cursor: pointer;
+    background-color: orangered;
+    font-style: century gothic;
+    font-size: 15px;
+
+
+}
+#d1{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(207, 207, 207);
+    margin-top:50px;
+}

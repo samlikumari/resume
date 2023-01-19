@@ -1,0 +1,60 @@
+.c1 {
+    margin-left: 300px;
+    margin-top: 250px;
+}
+.c1 h1{
+    font-family: century gothic;
+    color: orangered;
+}
+.c1 p {
+    font-family: century gothic;
+    font-size: 15px;
+
+}
+.tl {
+    margin-left: 700px;
+    margin-top: -200px;
+    
+}
+.tl textarea{
+    background-color: rgb(207, 207, 207);
+    font-family: century gothic;
+    font-size: 15px;
+}
+ #d1:hover {
+    background-color: grey;
+    cursor: pointer;
+}
+#d2:hover {
+    background-color: grey;
+    cursor: pointer;
+}
+#d3:hover {
+    background-color: grey;
+    cursor: pointer;
+}
+#d4:hover {
+    background-color: grey;
+    cursor: pointer;
+}
+.tl .button1 {
+    border: none;
+    color: white;
+    padding: 10px 38px;
+    cursor: pointer;
+    background-color: orangered;
+    font-style: century gothic;
+    font-size: 15px;
+
+
+}
+.button1:hover {
+    background-color: rgb(201, 195, 195);
+
+}
+.button1 {
+    margin-left: 380px;
+    font-family: century gothic;
+    font-size: 15px;
+
+}
